@@ -1,0 +1,23 @@
+h1{
+    background:green;
+    color:black;
+    padding:30px;/*color padding*/
+    text-align:center;
+}
+main{
+   color:green;
+   /*text-align:center;*/
+   text:black;
+   background-color:white;
+   padding:20px;
+   margin: 0 auto;
+   /* margin: 20px; */
+   min-width: 1000px;
+}
+h2{
+    color:green;
+   /*text-align:center;*/
+   text:black;
+   margin-top: 20px;
+
+}
